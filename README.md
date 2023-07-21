@@ -13,4 +13,5 @@ Instruções de Uso:
 - Tente chegar na maior distância possível, evitando colidir com os canos.
 
 Divirta-se jogando e continue explorando novas funcionalidades e melhorias para tornar o jogo ainda mais aprimorado!
+
 By: Lian Mendes
